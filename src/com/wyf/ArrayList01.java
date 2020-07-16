@@ -30,5 +30,9 @@ public class ArrayList01 {
         return list02;
     }
 
+    public void testgit(){
+        System.out.println("git");
+    }
+
 
 }
